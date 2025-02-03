@@ -1,0 +1,15 @@
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.AssemblyInfoInputs.cache
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.AssemblyInfo.cs
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.csproj.CoreCompileInputs.cache
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.sourcelink.json
+/Users/markova_a/Documents/PR_/bin/Debug/net9.0/PR_
+/Users/markova_a/Documents/PR_/bin/Debug/net9.0/PR_.deps.json
+/Users/markova_a/Documents/PR_/bin/Debug/net9.0/PR_.runtimeconfig.json
+/Users/markova_a/Documents/PR_/bin/Debug/net9.0/PR_.dll
+/Users/markova_a/Documents/PR_/bin/Debug/net9.0/PR_.pdb
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.dll
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/refint/PR_.dll
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.pdb
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/PR_.genruntimeconfig.cache
+/Users/markova_a/Documents/PR_/obj/Debug/net9.0/ref/PR_.dll
