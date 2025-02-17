@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/markova_a/.nuget/packages/": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/markova_a/Documents/PR_/PR_.csproj",
+      "projectUniqueName": "C:\\PR_\\PR_.csproj",
       "projectName": "PR_",
-      "projectPath": "/Users/markova_a/Documents/PR_/PR_.csproj",
-      "packagesPath": "/Users/markova_a/.nuget/packages/",
-      "outputPath": "/Users/markova_a/Documents/PR_/obj/",
+      "projectPath": "C:\\PR_\\PR_.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\PR_\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/markova_a/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
